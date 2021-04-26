@@ -13,5 +13,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 4. `php artisan db:seed`
 5. `php artisan passport:install`
 
-# Postman Collection Link (Import for your convenience)
+# Postman Collection Link (Import as per your convenience)
 https://www.getpostman.com/collections/90b6d80f0305f1feedc0
